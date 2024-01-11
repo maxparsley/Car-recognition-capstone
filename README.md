@@ -1,4 +1,4 @@
-## Paul's Awesome Capstone
+## Max's Awesome Capstone
 =========================
 
 ### Project Overview  
