@@ -2,10 +2,7 @@
 =========================
 
 ### Project Overview  
-TBD, but it's going to be amazing!
-... 
-...
-...
+The goal of this capstone is to analize how image recognition models make predictions by training a model on the stanford cars dataset and then testing on cars that are outside the scope of the model (i.e. the dataset was created in 2012 so a car outside the scope would be a car from 2016). This will provide insights on how image models make predictions and could also allow us to take insights on design trends over time.
 
 ### Walkthrough Demo
 
