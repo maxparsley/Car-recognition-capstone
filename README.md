@@ -1,4 +1,4 @@
-## Max's Awesome Capstone
+## Max's Car Recognition model deep dive
 =========================
 
 ### Project Overview  
@@ -30,7 +30,7 @@ The goal of this capstone is to analize how image recognition models make predic
     - joblib dump of final model / model object
 
 * `notebooks`
-    - contains all final notebooks involved in the project
+    - 1.0-mmp-preprocessing: this notebook contains the preprocessing work that I've done in resizing and normalizing them
 
 * `reports`
     - contains final report which summarises the project

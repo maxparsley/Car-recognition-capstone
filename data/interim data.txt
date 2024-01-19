@@ -1,0 +1,2 @@
+resized training and test images. file size is several GB so no upload to github.
+https://drive.google.com/drive/folders/1ZUpGcSUzVUOD9rpvU9n14eBhJYOsaUIU?usp=sharing
