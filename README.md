@@ -30,7 +30,8 @@ The goal of this capstone is to analize how image recognition models make predic
     - joblib dump of final model / model object
 
 * `notebooks`
-    - 1.0-mmp-preprocessing: this notebook contains the preprocessing work that I've done in resizing and normalizing them
+    - 1.0-mmp-EDA: this notebook contains an EDA of the numical data of the dataset
+    - 2.0-mmp-preprocessing: this notebook contains the preprocessing work that I've done in resizing and normalizing them
 
 * `reports`
     - contains final report which summarises the project
