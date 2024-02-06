@@ -32,6 +32,9 @@ The goal of this capstone is to analize how image recognition models make predic
 * `notebooks`
     - 1.0-mmp-EDA: this notebook contains an EDA of the numical data of the dataset
     - 2.0-mmp-preprocessing: this notebook contains the preprocessing work that I've done in resizing and normalizing them
+    - 2.1-mmp-more-preprocessing: fixed my csv files because they did not have complete data
+    - 2.2-mmp-rebalancing-the-dataset: rebalanced my train and test sets to an 80%-20% train test split to combat overfitting
+    - 3_0_mmp_initial_model_testing: testing out two pretrained models, both overfitting. best result was 49% test accuracy from the MobileNetV2 model
 
 * `reports`
     - contains final report which summarises the project
